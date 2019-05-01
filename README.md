@@ -5,4 +5,5 @@
  * 자는 걸 좋아합니다.
  * 맛있는 걸 먹으면 행복합니다.
  * 졸업하고 싶습니다.
+ * https://www.naver.com/
  * [github](https://www.naver.com/)
